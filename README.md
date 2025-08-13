@@ -1,5 +1,6 @@
 # GA-summary-Group3
 General Assembly Task
 
-[View my notes](Opening Remarks & Overwiew.md)
-[View my notes](Department Initiative and Project.md)
+[Opening Remarks & Overview](Opening%20Remarks%20&%20Overview.md)  
+[Department Initiative & Project](Department%20Initiative%20and%20Project.md)
+
